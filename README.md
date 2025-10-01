@@ -6,7 +6,7 @@ Sera Yanik
 
 
 
-Trippy Surfer is an interactive Processing sketch that synchronizes psychedelic visuals with a specific segment (00:18 to 01:20) of Gorillaz's "Feel Good Inc." The experience features six switchable backgrounds including rainbow tunnels, starfields, and warping 3D effects, overlaid with time-synchronized imagery that appears at precise moments throughout the track. A surfer character floats across the screen while speech bubbles, celestial objects, and attention-grabbing graphics cycle through various positions with pulsing and fading effects. 
+Trippy Surfer is an interactive Processing sketch that synchronizes psychedelic visuals with a specific segment (00:18 to 01:20) of Gorillaz's "Feel Good Inc." The experience features six switchable backgrounds including rainbow tunnels, starfields, and warping 3D effects, overlaid with time-synchronized imagery that appears at precise moments throughout the track. A surfer character floats across the screen while speech bubbles, celestial objects, and attention-grabbing graphics cycle through various positions with pulsing and fading effects.
 
 
 
@@ -49,8 +49,4 @@ Trippy Surfer is an interactive Processing sketch that synchronizes psychedelic 
 \- Canvas: 900x600 pixels (P3D renderer)
 
 \- Audio segment: 18 seconds to 1 minute 20 seconds
-
-
-
-
 
